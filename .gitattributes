@@ -4,6 +4,7 @@
 *.json text
 *.jpg binary
 *.png binary
+*.xcf binary
 *.html filter=lfs diff=lfs merge=lfs -text
 *.json filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
