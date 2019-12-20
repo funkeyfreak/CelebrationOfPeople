@@ -4,3 +4,4 @@
 *.json text
 *.jpg binary
 *.png binary
+*.xcf binary
